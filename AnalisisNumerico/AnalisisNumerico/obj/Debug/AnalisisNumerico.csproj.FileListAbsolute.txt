@@ -1,0 +1,10 @@
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\bin\Debug\AnalisisNumerico.exe.config
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\bin\Debug\AnalisisNumerico.exe
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\bin\Debug\AnalisisNumerico.pdb
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.Form1.resources
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.Properties.Resources.resources
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.csproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.exe
+C:\Users\Mateo\Desktop\MATEO\Programacion\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.pdb
