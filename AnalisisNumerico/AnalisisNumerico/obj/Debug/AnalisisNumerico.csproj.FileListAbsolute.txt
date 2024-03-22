@@ -21,3 +21,16 @@ C:\Users\santi\OneDrive\Escritorio\AnalisisNumerico-main\AnalisisNumerico\Analis
 C:\Users\santi\OneDrive\Escritorio\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.IngresoDatos.resources
 C:\Users\santi\OneDrive\Escritorio\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\Analisis.4661B1F1.Up2Date
 C:\Users\santi\OneDrive\Escritorio\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.Inicio.resources
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\bin\Debug\AnalisisNumerico.exe.config
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\bin\Debug\AnalisisNumerico.exe
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\bin\Debug\AnalisisNumerico.pdb
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\bin\Debug\Calculus.dll
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.Inicio.resources
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.IngresoDatos.resources
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.Properties.Resources.resources
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.csproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\Analisis.4661B1F1.Up2Date
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.exe
+C:\Users\Mateo\Desktop\MATEO\Ingenieria\AnalisisNumerico-main\AnalisisNumerico\AnalisisNumerico\obj\Debug\AnalisisNumerico.pdb
